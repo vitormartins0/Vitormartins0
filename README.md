@@ -1,8 +1,8 @@
-Olá, eu sou o Vitor 👋
-Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Gosto de construir soluções que fazem a diferença e de colaborar em projetos que desafiem minhas habilidades.
-💻 Sobre mim
-🔭 Atualmente estou trabalhando em projetos pessoais focados em (HTML, IA, PROTEÇÃO DE DADOS)
-🌱 Atualmente estou aprendendo (PROTEÇÃO DE DADOS)
-💬 Gosto de falar sobre desenvolvimento, boas práticas de código e tecnologia no geral
-📫 Como falar comigo: (vitormartinssantos02@gmail.com ou LinkedIn/vitor-martins00)
-⚡ Curiosidade: Adoro aprender coisas novas, especialmente que envolvam desafios práticos
+-Olá, eu sou o Vitor 👋
+-Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Gosto de construir soluções que fazem a diferença e de colaborar em projetos que desafiem minhas habilidades.
+-💻 Sobre mim
+-🔭 Atualmente estou trabalhando em projetos pessoais focados em (HTML, IA, PROTEÇÃO DE DADOS)
+-🌱 Atualmente estou aprendendo (PROTEÇÃO DE DADOS)
+-💬 Gosto de falar sobre desenvolvimento, boas práticas de código e tecnologia no geral
+-📫 Como falar comigo: (vitormartinssantos02@gmail.com ou LinkedIn/vitor-martins00)
+-⚡ Curiosidade: Adoro aprender coisas novas, especialmente que envolvam desafios práticos
